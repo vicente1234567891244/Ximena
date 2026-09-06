@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": [
     {
-      "name": "ximena_app.py",
-      "url": "https://raw.githubusercontent.com/vicente1234567891244/Ximena/main/ximena_app.py"
+      "name": "ximena_control_youtube_corregida.py",
+      "url": "https://raw.githubusercontent.com/vicente1234567891244/Ximena/main/ximena_control_youtube_corregida.py"
     }
   ]
 }
